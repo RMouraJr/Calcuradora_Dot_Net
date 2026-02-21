@@ -1,0 +1,14 @@
+C:\Users\Ronny\Desktop\dotnet_dio\CalcualdoraDotnet\bin\Debug\net9.0\CalcualdoraDotnet.exe
+C:\Users\Ronny\Desktop\dotnet_dio\CalcualdoraDotnet\bin\Debug\net9.0\CalcualdoraDotnet.deps.json
+C:\Users\Ronny\Desktop\dotnet_dio\CalcualdoraDotnet\bin\Debug\net9.0\CalcualdoraDotnet.runtimeconfig.json
+C:\Users\Ronny\Desktop\dotnet_dio\CalcualdoraDotnet\bin\Debug\net9.0\CalcualdoraDotnet.dll
+C:\Users\Ronny\Desktop\dotnet_dio\CalcualdoraDotnet\bin\Debug\net9.0\CalcualdoraDotnet.pdb
+C:\Users\Ronny\Desktop\dotnet_dio\CalcualdoraDotnet\obj\Debug\net9.0\CalcualdoraDotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ronny\Desktop\dotnet_dio\CalcualdoraDotnet\obj\Debug\net9.0\CalcualdoraDotnet.AssemblyInfoInputs.cache
+C:\Users\Ronny\Desktop\dotnet_dio\CalcualdoraDotnet\obj\Debug\net9.0\CalcualdoraDotnet.AssemblyInfo.cs
+C:\Users\Ronny\Desktop\dotnet_dio\CalcualdoraDotnet\obj\Debug\net9.0\CalcualdoraDotnet.csproj.CoreCompileInputs.cache
+C:\Users\Ronny\Desktop\dotnet_dio\CalcualdoraDotnet\obj\Debug\net9.0\CalcualdoraDotnet.dll
+C:\Users\Ronny\Desktop\dotnet_dio\CalcualdoraDotnet\obj\Debug\net9.0\refint\CalcualdoraDotnet.dll
+C:\Users\Ronny\Desktop\dotnet_dio\CalcualdoraDotnet\obj\Debug\net9.0\CalcualdoraDotnet.pdb
+C:\Users\Ronny\Desktop\dotnet_dio\CalcualdoraDotnet\obj\Debug\net9.0\CalcualdoraDotnet.genruntimeconfig.cache
+C:\Users\Ronny\Desktop\dotnet_dio\CalcualdoraDotnet\obj\Debug\net9.0\ref\CalcualdoraDotnet.dll
